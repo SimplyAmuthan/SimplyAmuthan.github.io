@@ -21,6 +21,5 @@ footer_links:
     Writer: ['Writer 2015', '/about']
 gems:
   - jekyll-gist
-
 # Build settings
 markdown: kramdown
