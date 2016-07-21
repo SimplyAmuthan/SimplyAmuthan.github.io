@@ -19,7 +19,8 @@ single_footer: '<p>The writer community loves your content. Writer &copy; 2015 <
 footer_links:
     About: ['About', '/about']
     Writer: ['Writer 2015', '/about']
-
+gems:
+  - jekyll-gist
 
 # Build settings
 markdown: kramdown
