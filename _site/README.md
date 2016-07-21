@@ -1,1 +1,0 @@
-# SimplyAmuthan.github.io
