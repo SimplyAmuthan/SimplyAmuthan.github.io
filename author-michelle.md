@@ -3,7 +3,7 @@ layout: author
 title: Author
 permalink: author/amuthan/
 feature_image: feature-sea
-author_avatar: michelle
+author_avatar: amuthan
 author_name: amuthan Ganeshan
 title: Amuthan Ganeshan
 fav_posts:
