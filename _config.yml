@@ -1,12 +1,11 @@
 # Site settings
-title: Writer Theme
-email: help@writer-theme.com
+title: Code Culture
+email: contact@codeculture.guru
 description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
+ A blog about code of conduct for coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://simplyamuthan.github.io" # the base hostname & protocol for your site
-enable_retina: false
+enable_retina: true
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
@@ -14,11 +13,11 @@ nav_list:
   Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/michelle', 'fa-user']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2015 <a href="/">latest posts</a></p>'
+  Author : ['Author', '/author/amuthan', 'fa-user']
+single_footer: '<p>A blog about code of conduct for coding. Code Culture &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
-    Writer: ['Writer 2015', '/about']
+    Writer: ['Code Culture 2016', '/about']
 gems:
   - jekyll-gist
 # Build settings
