@@ -2,8 +2,8 @@
 layout: post-sidebar
 date: 2015-02-10
 categories: motivation leadership journey
-author_name : Fred Smith
-author_url : /author/fred
+author_name : Amuthan Ganeshan
+author_url : /author/amuthan
 author_avatar: fred
 show_avatar : true
 read_time : 16
