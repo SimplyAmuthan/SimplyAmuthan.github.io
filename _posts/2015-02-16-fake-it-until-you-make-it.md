@@ -2,9 +2,9 @@
 layout: post-sidebar
 date: 2015-02-10
 categories: motivation
-author_name : Fred Smith
-author_url : /author/fred
-author_avatar: fred
+author_name : Amuthan Ganeshan
+author_url : /author/amuthan
+author_avatar: amuthan
 show_avatar : true
 read_time : 22
 feature_image: feature-water
