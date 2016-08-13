@@ -4,7 +4,7 @@ date: 2015-02-10
 categories: motivation leadership journey
 author_name : Amuthan Ganeshan
 author_url : /author/amuthan
-author_avatar: fred
+author_avatar: amuthan
 show_avatar : true
 read_time : 16
 feature_image: feature-san-fran
