@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: My Books
+permalink: /books/
 feature_image: feature-book
 ---
 
