@@ -11,7 +11,7 @@ nav_list:
   Home : ['Home', '/', 'fa-home']
  # Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
  # Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
+  My Books : ['My Books', '/books', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', '/author/amuthan', 'fa-user']
 single_footer: '<p>A blog about code of conduct for coding. Code Culture &copy; 2016 <a href="/">latest posts</a></p>'
