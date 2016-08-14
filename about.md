@@ -5,10 +5,7 @@ permalink: /about/
 feature_image: feature-book
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am an avid web developer, software engineer, and just about everything to do with computer enthusiast. Each new thing you learn will lead you to another new thing, and another, and so on. The more you uncover, the more remains hidden, that needs to be sought out and exposed. It is ultimately impossible to know everything. That is what makes life so fascinating. While I am no means of an expert here, I would like to share what little I do know and share more as I learn. Hopefully, this website will grow with my little knowledge and will be useful to someone.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius voluptatum tenetur explicabo, vel, praesentium corrupti repudiandae veniam totam reprehenderit, temporibus delectus possimus provident sint rem ex maiores ratione sunt deserunt.
+Happy Coding, 
+Amuthan
