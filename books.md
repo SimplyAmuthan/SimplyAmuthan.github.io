@@ -11,6 +11,8 @@ of Spring MVC. I still remember first learning about the Spring framework back i
 
 ![Book Cover Spring MVC image]({{site.url}}/{{site.baseurl}}img/post-assets/book_cover_spring_mvc.jpg)
 
+https://www.amazon.com/Spring-MVC-Beginners-Guide-Second/dp/1785880632/
+
 It has been more than two years since the first edition of this book presented readers with a beginner-friendly way of explaining the concepts of Spring MVC. The popular reception of the book and the rapid development of the Spring MVC framework naturally demands a new edition.
 
 In the two years since the first edition of this book was published I have received all kinds of suggestions from readers how it could be improved. With the aid of all this information I have completely revised the book. The most obvious changes in this second edition are usage of the latest and greatest versions of Spring and other libraries.
